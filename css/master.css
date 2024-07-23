@@ -91,7 +91,7 @@ li {
     color: white;
 }
 .landing h2 {
-    font-size: 36px; /* تعديل حجم الخط */
+    font-size: 34px; /* تعديل حجم الخط */
     position: relative;
     white-space: nowrap;
     overflow: hidden;
@@ -100,7 +100,7 @@ li {
 }
 @media (max-width: 768px) {
     .landing h2 {
-        font-size: 28px; /* تعديل حجم الخط */
+        font-size: 26px; /* تعديل حجم الخط */
     }
 }
 @keyframes typing {
